@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 17:28:22 On 29.12.2023
+
+Output: BOM_JLC
+Type  : BOM
+From  : Variant [[No Variations]] of Project [uz_per_thermocoupler_connector.PrjPcb]
+   Generated File[BOM_JLC_uz_per_thermocoupler_connector_[No Variations]_Rev02.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 17:28:32 On 29.12.2023

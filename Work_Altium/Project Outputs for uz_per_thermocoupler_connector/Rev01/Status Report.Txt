@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [uz_per_thermocoupler_connector.PcbDoc]
+   Generated File[uz_per_thermocoupler_connector_Rev01.TXT]
+   Generated File[uz_per_thermocoupler_connector_Rev01.LDP]
+   Generated File[uz_per_thermocoupler_connector_Rev01.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 16:45:02 On 15.07.2023
